@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://a.uguu.se/rzuxHjbG.jpg" alt="X - Dev Team" width="300" />
 
-# Nyolong case? Jangan lupa tambah nama X - Dev Team
+# Nyolong case ? Jangan lupa tambah nama X - Dev Team
 
 >
 >
@@ -19,14 +19,14 @@
 ```bash
 > pkg install nodejs && pkg install git
 > git clone https://github.com/xdevteam404/xdev-self
-> cd Self-xdev
-> bash install.sh
+> cd xdev-self
+> bash install.sh atau npm i
 > node run.js
 ```
 ## CARA INSTALL DI PC
 ```bash
 > git clone https://github.com/xdevteam404/xdev-self
-> cd Self-xdev
+> cd xdev-self
 > npm i
 > node run.js
 ```
