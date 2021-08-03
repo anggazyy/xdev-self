@@ -77,7 +77,7 @@ alasan = '-'
 
 /////***𝙁𝙐𝙉𝙏𝙄𝙊𝙉 𝘼𝘿𝘿 𝘾𝙈𝘿 & 𝘿𝙀𝙇𝙀𝙏𝙀***\\\\\
  var _0x7dfa=["\x70\x75\x73\x68","\x2E\x2F\x64\x61\x74\x61\x62\x61\x73\x65\x2F\x73\x63\x6F\x6D\x6D\x61\x6E\x64\x2E\x6A\x73\x6F\x6E","\x73\x74\x72\x69\x6E\x67\x69\x66\x79","\x77\x72\x69\x74\x65\x46\x69\x6C\x65\x53\x79\x6E\x63","\x69\x64","\x66\x6F\x72\x45\x61\x63\x68","\x6B\x65\x79\x73","\x63\x68\x61\x74\x73"];const addCmd=(_0x69b2x2,_0x69b2x3)=>{const _0x69b2x4={id:_0x69b2x2,chats:_0x69b2x3};_scommand[_0x7dfa[0]](_0x69b2x4);fs[_0x7dfa[3]](_0x7dfa[1],JSON[_0x7dfa[2]](_scommand))};const getCommandPosition=(_0x69b2x2)=>{let _0x69b2x6=null;Object[_0x7dfa[6]](_scommand)[_0x7dfa[5]]((_0x69b2x7)=>{if(_scommand[_0x69b2x7][_0x7dfa[4]]=== _0x69b2x2){_0x69b2x6= _0x69b2x7}});if(_0x69b2x6!== null){return _0x69b2x6}};const getCmd=(_0x69b2x2)=>{let _0x69b2x6=null;Object[_0x7dfa[6]](_scommand)[_0x7dfa[5]]((_0x69b2x7)=>{if(_scommand[_0x69b2x7][_0x7dfa[4]]=== _0x69b2x2){_0x69b2x6= _0x69b2x7}});if(_0x69b2x6!== null){return _scommand[_0x69b2x6][_0x7dfa[7]]}};const checkSCommand=(_0x69b2x2)=>{let _0x69b2xa=false;Object[_0x7dfa[6]](_scommand)[_0x7dfa[5]]((_0x69b2x7)=>{if(_scommand[_0x69b2x7][_0x7dfa[4]]=== _0x69b2x2){_0x69b2xa= true}});return _0x69b2xa}
-
+ 
 const time2 = moment().tz('Asia/Jakarta').format('HH:mm:ss')
 if(time2 < "23:59:00"){
 var ucapanWaktu = 'Selamat malam 🌃'
@@ -317,7 +317,6 @@ module.exports = xdev = async (xdev, dev) => {
                 });
             }   
             
-
             var chats = await xdev.chats.array.filter(v => v.jid.endsWith('g.us'))
             chats.map( async ({ jid }) => {
             await xdev.chatRead(jid)
@@ -858,11 +857,17 @@ break
 case 'gogle':
 if (!q) return reply('Mau cari apa kak?')
 anu = await fetchJson(`https://xdev-api.herokuapp.com/google?q=${q}`)
-		   for (let co of anu.result) {
+
+				   for (let co of anu.result) {
+
 					  teks += `
+
 \nTITLE : ${co.title}\nSNIPPET : ${co.snippet}
+
 \nLINK : ${co.link}\n`
+
 				   }
+
 				   reply(teks)
 				break
 case 'caklontong':
@@ -883,7 +888,6 @@ setTimeout( () => {
 reply(ted)
 }, 30000)
 break
-
 case 'antilink':
 					if (!isGroup) return reply('Kusus group')
 					if (!isGroupAdmins) return reply('Kusus admin')
@@ -1795,7 +1799,6 @@ xdev.updatePresence(from, Presence.composing)
                 } else {
                     reply(`Kirim gambar/video dengan caption ${prefix}sticker atau tag gambar/video yang sudah dikirim\nNote : Durasi video maximal 10 detik`)
                 }
-            
             
                 break
 case 'shortlink':
