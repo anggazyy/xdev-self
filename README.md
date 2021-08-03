@@ -230,4 +230,8 @@
 
 ‎‎• [`Irull`](https://wa.me/6282290559350)
 
-‎‎• [`Hafizz`](https://wa.me/6282126046864)
+‎‎• [`Hafz`](https://wa.me/6282126046864)
+
+# Hargai Kami Dengan Menambahkan Kredit ( Wm ) 
+
+~ Selamat Memakai
