@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://a.uguu.se/rzuxHjbG.jpg" alt="X - Dev Team" width="300" />
 
-# jgn lupa stars🌟 & follow:) 
+# Jangan lupa kasih stars🌟 & follow :)
 
 >
 >
@@ -226,5 +226,9 @@
 
 ‎‎• [`XFar`](https://github.com/xfar05)
 
-# Save Nomor X - Dev Team
+‎‎• [`Diel`](https://github.com/diel)
+
+‎‎• [`Irull`](https://github.com/irull)
+
+# Save wa X - Dev Team
 ‎‎• [`ARSKY`](https://wa.me/62895357313000)
