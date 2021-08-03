@@ -15,7 +15,7 @@
 </h4>
 </p>
 
-## CARA INSTALL DI TERMUX
+## CARA INSTALL DI TERMUX ONLY
 ```bash
 > pkg install nodejs && pkg install git
 > git clone https://github.com/xdevteam404/xdev-self
