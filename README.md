@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://a.uguu.se/rzuxHjbG.jpg" alt="X - Dev Team" width="300" />
 
-# Nyolong case ? Jangan lupa tambah nama X - Dev Team
+# Nyolong case? Jangan lupa tambah nama X - Dev Team
 
 >
 >
