@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://a.uguu.se/rzuxHjbG.jpg" alt="X - Dev Team" width="300" />
 
-# Jangan lupa kasih stars🌟 & follow :)
+# Jangan lupa kasih stars & follow :)
 
 >
 >
@@ -220,15 +220,12 @@
 
 • [`Hexagonz`](https://github.com/Hexagonz)
 
-• [`Arsky`](https://github.com/arskyganzz)
+• [`Arsky`](https://wa.me/62895357313000)
 
-• [`Vean`](https://github.com/Veanyxz)
+• [`Vean`](https://wa.me/628983583288)
 
-‎‎• [`XFar`](https://github.com/xfar05)
+‎‎• [`XFar`](https://wa.me/62895619083555)
 
-‎‎• [`Diel`](https://github.com/diel)
+‎‎• [`Diel`](https://wa.me/628886234378)
 
-‎‎• [`Irull`](https://github.com/irull)
-
-# Save wa X - Dev Team
-‎‎• [`ARSKY`](https://wa.me/62895357313000)
+‎‎• [`Irull`](https://wa.me/6282290559350)
