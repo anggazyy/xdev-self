@@ -18,14 +18,14 @@
 ## CARA INSTALL DI TERMUX
 ```bash
 > pkg install nodejs && pkg install git
-> git clone https://github.com/xdevteam404/Self-xdev
+> git clone https://github.com/xdevteam404/xdev-self
 > cd Self-xdev
 > bash install.sh
 > node run.js
 ```
 ## CARA INSTALL DI PC
 ```bash
-> git clone https://github.com/xdevteam404/Self-xdev
+> git clone https://github.com/xdevteam404/xdev-self
 > cd Self-xdev
 > npm i
 > node run.js
