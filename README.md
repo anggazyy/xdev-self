@@ -225,3 +225,6 @@
 • [`Vean`](https://github.com/Veanyxz)
 
 ‎‎• [`XFar`](https://github.com/xfar05)
+
+# Save Nomor X - Dev Team
+‎‎• [`ARSKY`](https://wa.me/62895357313000)
