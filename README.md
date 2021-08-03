@@ -15,18 +15,22 @@
 </h4>
 </p>
 
-## CARA INSTALL DI TERMUX ONLY
+## CARA INSTALL DI TERMUX
 ```bash
-> pkg install nodejs && pkg install git
-> git clone https://github.com/xdevteam404/xdev-self
-> cd xdev-self
-> bash install.sh atau npm i
-> node run.js
-```
-## CARA INSTALL DI PC
-```bash
-> git clone https://github.com/xdevteam404/xdev-self
-> cd xdev-self
+> termux-setup-storage
+> apt-get update
+> apt-get upgrade
+> apt-get install nodejs
+> apt-get install libwebp
+> apt-get install libvips
+> apt-get install mc
+> apt-get install ffmpeg
+> apt-get install wget
+> apt-get install tesseract
+> pkg install git
+> cd /sdcard
+> cp -r xdev-self-main $HOME
+> cd xdev-self-main
 > npm i
 > node run.js
 ```
