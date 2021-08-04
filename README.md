@@ -23,7 +23,8 @@
 ```
 > Buat Akun Heroku(require) 
 > Bantu Ortu(core require) 
-> Pencet Deploy Heroku Di atas(require) 
+> Pencet Deploy Heroku Di atas(require)
+> Tinggal Scan (tidak recomended) usahakan session udah terpasang manual
 > Dah Itu Aja klo masih kurang coli dlu
 ```
 
