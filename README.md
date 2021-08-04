@@ -40,6 +40,9 @@
 > node run.js
 ```
 
+# Baca Nih!!
+Edit OwnerNumber Di (https://github.com/xdevteam404/xdev-self/xdev.js)
+
 # INSTALL
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
