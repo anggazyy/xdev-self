@@ -41,7 +41,7 @@
 ```
 
 # Baca Nih!!
-Edit (OwnerNumber)(https://github.com/xdevteam404/xdev-self/xdev.js)
+- Change [ownerNumber](https://github.com/TobyG74/ElainaBOT/blob/df5caa20c74a1e76345a9664baa8dbc1b198da21/tobz.js#L248)
 
 # INSTALL
 * [Node.js](https://nodejs.org/en/)
