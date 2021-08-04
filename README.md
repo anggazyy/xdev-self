@@ -18,20 +18,17 @@
 ## CARA INSTALL DI TERMUX
 ```bash
 > termux-setup-storage
-> apt-get update
-> apt-get upgrade
-> apt-get install nodejs
-> apt-get install libwebp
-> apt-get install libvips
-> apt-get install mc
-> apt-get install ffmpeg
-> apt-get install wget
-> apt-get install tesseract
+> pkg update && pkg upgrade
 > pkg install git
+> pkg install nodejs
+> pkg install bash
+> pkg install ffmpeg
+> pkg install libwebp
+> apt-get install ffmpeg
 > git clone https://github.com/xdevteam404/xdev-self
 > cd xdev-self
 > npm i
-> node run
+> node run.js
 # Untuk Sdcard (File Sudah Di Download)
 > cd /sdcard
 > cp -r xdev-self-main $HOME
