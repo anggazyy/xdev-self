@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://a.uguu.se/rzuxHjbG.jpg" alt="X - Dev Team" width="300" />
+[![ANTI TERMUX](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nurutomo/wabot-aq)
 
 # Jangan lupa kasih stars & follow :)
 
