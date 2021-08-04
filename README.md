@@ -28,6 +28,11 @@
 > apt-get install wget
 > apt-get install tesseract
 > pkg install git
+> git clone https://github.com/xdevteam404/xdev-self
+> cd xdev-self
+> npm i
+> node run
+# Untuk Sdcard (File Sudah Di Download)
 > cd /sdcard
 > cp -r xdev-self-main $HOME
 > cd xdev-self-main
