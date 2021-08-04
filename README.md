@@ -18,7 +18,15 @@
 </h4>
 </p>
 
-## CARA INSTALL DI TERMUX
+## CARA INSTALL 
+# HEROKU
+```
+> Buat Akun Heroku(require) 
+> Bantu Ortu(core require) 
+> Pencet Deploy Heroku Di atas(require) 
+> Dah Itu Aja klo masih kurang coli dlu
+
+# TERMUX
 ```bash
 > termux-setup-storage
 > apt-get update
