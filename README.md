@@ -47,7 +47,7 @@
 
 - Change [Thumbnail](https://github.com/xdevteam404/xdev-self/blob/main/stik/thumb.jpeg)
 
-- Change [FakeThumb](https://github.com/xdevteam404/xdev-self/blob/main/stik/fake.jpeg)
+- Change [FakeThumbn](https://github.com/xdevteam404/xdev-self/blob/main/stik/fake.jpeg)
 
 # INSTALL
 * [Node.js](https://nodejs.org/en/)
