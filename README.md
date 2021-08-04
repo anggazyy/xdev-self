@@ -24,7 +24,6 @@
 > pkg install bash
 > pkg install ffmpeg
 > pkg install libwebp
-> apt-get install ffmpeg
 > git clone https://github.com/xdevteam404/xdev-self
 > cd xdev-self
 > npm i
