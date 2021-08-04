@@ -41,7 +41,7 @@
 ```
 
 # Baca Nih!!
-Edit OwnerNumber Di (https://github.com/xdevteam404/xdev-self/xdev.js)
+Edit (OwnerNumber)(https://github.com/xdevteam404/xdev-self/xdev.js)
 
 # INSTALL
 * [Node.js](https://nodejs.org/en/)
