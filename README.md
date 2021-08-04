@@ -1,3 +1,4 @@
+
 <div align="center">
 <img src="https://a.uguu.se/rzuxHjbG.jpg" alt="X - Dev Team" width="300" />
 
@@ -9,7 +10,7 @@
 </div>
 <p align="center">
   <a href="https://github.com/xdevteam404"><img title="Author" src="https://img.shields.io/badge/Author-xdev team-red.svg?style=for-the-badge&logo=github" /></a>
-[![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hardiantojek93/xdev-self)
+   <a href="https://heroku.com/deploy?template=https://github.com/hardiantojek93/xdev-self"><img title="Deploy" src="https://www.herokucdn.com/deploy/button.svg" /></a>
 
   <h4 align="center">
   <a
