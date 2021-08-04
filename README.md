@@ -25,6 +25,7 @@
 > Bantu Ortu(core require) 
 > Pencet Deploy Heroku Di atas(require) 
 > Dah Itu Aja klo masih kurang coli dlu
+```
 
 # TERMUX
 ```bash
