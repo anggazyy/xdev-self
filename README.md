@@ -1,6 +1,5 @@
 <div align="center">
 <img src="https://a.uguu.se/rzuxHjbG.jpg" alt="X - Dev Team" width="300" />
-[![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hardiantojek93/xdev-self)
 
 # Jangan lupa kasih stars & follow :)
 
@@ -10,6 +9,8 @@
 </div>
 <p align="center">
   <a href="https://github.com/xdevteam404"><img title="Author" src="https://img.shields.io/badge/Author-xdev team-red.svg?style=for-the-badge&logo=github" /></a>
+  <a [![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hardiantojek93/xdev-self)>Pencet su</a>
+
   <h4 align="center">
   <a
   <a href="https://wa.me/62895619083555">SC FREE API KOK GAN >//< </a>
