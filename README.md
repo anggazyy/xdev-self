@@ -40,7 +40,7 @@
 > node run.js
 ```
 
-# Baca Nih!!
+# Baca Nih!!!
 - Change [ownerNumb](https://github.com/xdevteam404/xdev-self/blob/main/xdev.js#71)
 
 - Change [Menu](https://github.com/xdevteam404/xdev-self/blob/main/message/help.js)
