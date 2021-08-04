@@ -41,7 +41,7 @@
 ```
 
 # Baca Nih!!
-- Change [ownerNumb] (https://github.com/xdevteam404/xdev-self/blob/main/xdev.js#71)
+- Change [ownerNumb](https://github.com/xdevteam404/xdev-self/blob/main/xdev.js#71)
 
 # INSTALL
 * [Node.js](https://nodejs.org/en/)
