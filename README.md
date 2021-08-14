@@ -238,7 +238,7 @@
 
 • [`Vean`](https://wa.me/628983583288)
 
-‎‎• [`XFar`](https://wa.me/62895619083555)
+‎‎• [`XFar`](https://github.com/xfar05)
 
 ‎‎• [`Diel`](https://wa.me/628886234378)
 
