@@ -2276,9 +2276,9 @@ if (button == 'CREATOR') {
 console.log('CREATOR')
 let inilist = []
 for (let i of ownerNumber) {
-const vname = xdev.contacts[i] != undefined ? xdev.contacts[i].vname || xdev.contacts[i].notify : undefined
+const vname = Rafz.contacts[i] != undefined ? xdev.contacts[i].vname || xdev.contacts[i].notify : undefined
 inilist.push({
-"displayName": 'X - Dev Team',
+"displayName": 'X - Rafz Team',
 "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:${vname ? `${vname}` : `${xdev.user.name}`}\nitem1.TEL;waid=${i.split('@')[0]}:${i.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`
 })
 }
@@ -2286,15 +2286,15 @@ hehe = await xdev.sendMessage(from, {
 "displayName": `${inilist.length} kontak`,
 "contacts": inilist 
 }, 'contactsArrayMessage', { quoted: dev })
-xdev.sendMessage(from,'Nih Kak Creator X - Dev Bot',text,{quoted: hehe})
+xdev.wa.me//6285336225266(from,'Nih Kak Creator X - Rafz Bot',text,{quoted: hehe})
 }
 if (button == 'GITHUB') {
 console.log('GITHUB')
-xdev.sendMessage(from, `*Nih kak github X - Dev Team*\n*Scnya free kak dan juga free api 🤗*\n*Ingat ! jangan diperjual belikan yah !*\n\nhttps://github.com/xdevteam404`, text, {quoted: dev})
+xdev.sendMessage(from, `*Nih kak github X - Rafz Team*\n*Scnya free kak dan juga free api 🤗*\n*Ingat ! jangan diperjual belikan yah !*\n\nhttps://github.com/xdevteam404`, text, {quoted: dev})
 }
 if (button == 'REST API') {
 console.log('REST API')
-xdev.sendMessage(from, `*Nih kak rest api yang digunakan oleh X - Dev Team Dan juga free*\n\nhttps://xdev-api.herokuapp.com/api\n\n*Gunakan dengan bijak dan jangan spam yah kak 🙏🏻*`, text, {"contextInfo": {text: 'HelloWorld',"forwardingScore": 3,isForwarded: true,sendEphemeral: true,mentionedJid: [sender],"externalAdReply": {"title": `Hallo kak ${pushname}`,"body": ``,"previewType": "PHOTO","thumbnailUrl": `https://telegra.ph/file/a082de791ef8aff96ec24.jpg`,"thumbnail": "","sourceUrl": ""}}, quoted: dev})
+xdev.sendMessage(from, `*Nih kak rest api yang digunakan oleh X - Rafz Team Dan juga free*\n\nhttps://xdev-api.herokuapp.com/api\n\n*Gunakan dengan bijak dan jangan spam yah kak 🙏🏻*`, text, {"contextInfo": {text: 'HelloWorld',"forwardingScore": 3,isForwarded: true,sendEphemeral: true,mentionedJid: [sender],"externalAdReply": {"title": `Hallo kak ${pushname}`,"body": ``,"previewType": "PHOTO","thumbnailUrl": `https://telegra.ph/file/a082de791ef8aff96ec24.jpg`,"thumbnail": "","sourceUrl": ""}}, quoted: dev})
 }
 if (budy.startsWith('$')){
 if (!dev.key.fromMe && !isOwner) return
