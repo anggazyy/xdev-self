@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://github.com/xdevteam404"><img title="Author" src="https://img.shields.io/badge/Author-xdev team-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
-<a href="https://github.com/xfar05"><img src="https://cardivo.vercel.app/api?name=X - Dev Team&description=Hi, Free Script Bot Whatsapp By Xdev Team and i'm just a newbie programmer nice to meet you all 🤗&image=https://telegra.ph/file/9e010189999b35c11d55b.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@xfar05_&github=xfar05&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
+<a href="https://github.com/xfar05"><img src="https://cardivo.vercel.app/api?name=X - Dev Team&description=Free Whatsapp Bot Script For You Made By Team X - Dev.Please Use But Never Delete Creator's Name🤗&image=https://telegra.ph/file/9e010189999b35c11d55b.jpg&usqp=CAU&backgroundColor=%23ecf0f1&github=xdevteam404&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
   <a href="https://wa.me/62895619083555">SC FREE API KOK GAN >//< </a>
 </h4>
 </p>
