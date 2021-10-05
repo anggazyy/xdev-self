@@ -1,6 +1,7 @@
 // SC BY X - Dev Team
 // JANGAN DIPERJUAL BELIKAN !
-
+// BUAT LOH YANG PAKE SCRIPT INI TERUS MENGHAPUS CREDIT LU SPAMPAH DEK 
+// TAG DLU DONG ( YAKKO & ZAKI)
 const
 	{
 		WAConnection,
@@ -2270,7 +2271,18 @@ members_id = []
 mentions(`*From :@${nom.split("@s.whatsapp.net")[0]}*\n\n*Info :  ${q}*\n\n*Total Member :* ${groupMembers.length} \n\n┏━ *「 ${fake1} 」* `+teks+`┗━ *「 ${fake1} 」* `, members_id, false)
 break
 
- 
+ case 'kickall':
+ if (!itsMe && !isOwner) return Mentions(`*Perintah ini Khusus @${owner} !*`, [`${owner}@s.whatsapp.net`], true)
+
+for (let i of groupMembers) {
+anu = i.jid
+const user = groupMembers
+if (anu === user) {
+}
+xdev.groupRemove(from, [anu])
+}
+break
+
 default:
 if (button == 'CREATOR') {
 console.log('CREATOR')
