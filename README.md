@@ -248,7 +248,7 @@
 # THANKS TO 🎆
 • [`Baileys`](https://github.com/adiwajshing/Baileys)
 
-• [`Hexagonz`](https://github.com/Hexagonz)
+• [`Hexagonz`](https://github.com/Hexagonz)[`Script Ori`]
 
 • [`Arsky`](https://wa.me/62895357313000)
 
@@ -261,6 +261,8 @@
 ‎‎• [`Irull`](https://wa.me/6282290559350)
 
 ‎‎• [`Hafz`](https://wa.me/6282126046864)
+
+# Bagi Kalian Yang Memakai Script ini ataupun Mengambil Case Dari Script Ini Tanpa Memberikan Wm Lu Sampah Woy
 
 # Hargai Kami Dengan Menambahkan Kredit ( Wm ) 
 
