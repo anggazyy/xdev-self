@@ -27,9 +27,9 @@
 > Pencet Deploy Heroku Di atas(require)
 > Tinggal Scan (tidak recomended) usahakan session udah terpasang manual
 > Dah Itu Aja klo masih kurang coli dlu
-
-• [`Created By Arsky x Hardianto`](https://github.com/xdevteam404/xdev-self)
 ```
+• [`Created By Arsky x Hardianto`](https://github.com/xdevteam404/xdev-self)
+
 
 # TERMUX
 ```bash
