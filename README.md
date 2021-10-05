@@ -248,7 +248,7 @@
 # THANKS TO 🎆
 • [`Baileys`](https://github.com/adiwajshing/Baileys)
 
-• [`Hexagonz`](https://github.com/Hexagonz)[`Script Ori`]
+• [`Hexagonz`](https://github.com/Hexagonz) `Script Ori`
 
 • [`Arsky`](https://wa.me/62895357313000)
 
