@@ -246,21 +246,21 @@
 | DELVOTE |✅|
 
 # THANKS TO 🎆
-• [`Baileys`](https://github.com/adiwajshing/Baileys)
+• [`Baileys`](https://github.com/adiwajshing/Baileys) `Library`
 
 • [`Hexagonz`](https://github.com/Hexagonz) `Script Ori`
 
-• [`Arsky`](https://wa.me/62895357313000)
+• [`Arsky`](https://wa.me/62895357313000) `Pembuat Team Ini`
 
-• [`Vean`](https://wa.me/628983583288)
+• [`Vean`](https://wa.me/628983583288) `Pemberi Case`
 
-‎‎• [`XFar`](https://github.com/xfar05)
+‎‎• [`XFar`](https://github.com/xfar05) `Pembuat Script Ini`
 
-‎‎• [`Diel`](https://wa.me/628886234378)
+‎‎• [`Diel`](https://wa.me/628886234378) `Pemberi Case`
 
-‎‎• [`Irull`](https://wa.me/6282290559350)
+‎‎• [`Irull`](https://wa.me/6282290559350) `Pemberi Case`
 
-‎‎• [`Hafz`](https://wa.me/6282126046864)
+‎‎• [`Hafz`](https://wa.me/6282126046864) `Pemberi Case`
 
 # Bagi Kalian Yang Memakai Script ini ataupun Mengambil Case Dari Script Ini Tanpa Memberikan Wm Lu Sampah Woy
 
